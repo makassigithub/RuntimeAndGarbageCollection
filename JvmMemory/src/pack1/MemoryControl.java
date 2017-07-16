@@ -10,7 +10,7 @@ public class MemoryControl {
 	// Declare variable for different steps	
 	long memo1,memo2;
 	
-	//Declare Data to be allocated	
+	//Declare data to be allocated	
 	Integer [] data = new Integer [1000];
 	
 	//Print total memory available for the program
